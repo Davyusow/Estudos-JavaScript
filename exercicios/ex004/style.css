@@ -1,0 +1,14 @@
+.container{
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+button{
+  font-size: large;
+}
+#comprar{
+  background-color: yellow;
+}
+#carrinho{
+  background-color: orange;
+}

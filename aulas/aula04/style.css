@@ -1,0 +1,10 @@
+.container{
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+button{
+  width: 200px;
+  height: 10px;
+  font-size: large;
+}
